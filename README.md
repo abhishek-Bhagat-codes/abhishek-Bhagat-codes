@@ -33,15 +33,14 @@
 - 💻 I love building **interactive web applications** and **AI-powered tools**.  
 - 🌱 Currently exploring **Google Gemini, AI animations, and modern JS frameworks**.  
 - 🎯 I enjoy **learning new technologies** and contributing to open-source projects.  
-- 📫 You can reach me at **[your-email@example.com](mailto:your-email@example.com)**  
+- 📫 You can reach me at **[abhishekbhagat.dev@gmail.com](mailto:your-email@example.com)**  
 
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhagat-124940317/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek-bhagat-codes)  
 
 ---
 
