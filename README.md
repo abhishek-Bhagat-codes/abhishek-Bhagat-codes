@@ -1,4 +1,3 @@
-##Abhishek
 <div align="center">
   <h1>Hi 👋, I'm Abhishek</h1>
   <h3>A passionate Full-Stack Developer and AI Enthusiast</h3>
@@ -45,7 +44,7 @@
 ---
 
 
-## ⚡ Fun GIF Section
+## ⚡ At the last
 
 <div align="center">
   <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="300"/>
