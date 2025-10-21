@@ -2,15 +2,6 @@
   <h1>Hi 👋, I'm Abhishek</h1>
   <h3>A passionate Full-Stack Developer and AI Enthusiast</h3>
 </div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
