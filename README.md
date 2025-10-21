@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
   <h1>Hi 👋, I'm Abhishek</h1>
   <h3>A passionate Full-Stack Developer and AI Enthusiast</h3>
 </div>
