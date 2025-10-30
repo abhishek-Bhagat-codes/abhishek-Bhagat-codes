@@ -1,8 +1,8 @@
 <div align="start">
-  <h1>Hi 👋, I'm Abhishek</h1>
+  <h1>Hi, I'm Abhishek</h1>
   <h3>A passionate Full-Stack Developer and AI Enthusiast</h3>
 </div>
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -18,16 +18,16 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
-- 💻 I love building **interactive web applications** and **AI-powered tools**.  
-- 🌱 Currently exploring **Google Gemini, AI animations, and modern JS frameworks**.  
-- 🎯 I enjoy **learning new technologies** and contributing to open-source projects.  
-- 📫 You can reach me at **[abhishekbhagat.dev@gmail.com](mailto:your-email@example.com)**  
+-  I love building **interactive web applications** and **AI-powered tools**.  
+-  Currently exploring **Google Gemini, AI animations, and modern JS frameworks**.  
+-  I enjoy **learning new technologies** and contributing to open-source projects.  
+-  You can reach me at **[abhishekbhagat.dev@gmail.com](mailto:your-email@example.com)**  
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhagat-124940317/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek-bhagat-codes)  
@@ -35,7 +35,7 @@
 ---
 
 
-## ⚡ At the last
+##  At the last
 
 <div align="center">
   <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="300"/>
