@@ -19,7 +19,7 @@ Experienced in full-stack development, model training, and deploying production-
 ## Tech Stack
 
 **Languages**  
-Python • JavaScript • C++
+Python • JavaScript • C/C++ • Solidity 
 
 **Frontend**  
 React • React Native • HTML • CSS • Tailwind
@@ -38,21 +38,11 @@ Git • GitHub • Docker • VS Code
 - **Full Stack Projects** – Production-ready MERN applications  
 - **Automation Tools** – Scripts and systems to improve efficiency  
 
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-bhagat-codes&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bhagat-codes&layout=compact)
-
----
-
 
 ## Connect
 
-- LinkedIn: [Add Link]
-- Portfolio: [Add Link]
+-  **LinkedIn:** [Abhishek Bhagat](https://www.linkedin.com/in/abhishek-bhagat-124940317/)
+-  **Email:** [abhishekbhagat.dev@gmail.com](mailto:abhishekbhagat.dev@gmail.com)
 
 ---
 
