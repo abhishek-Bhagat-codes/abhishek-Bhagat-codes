@@ -1,6 +1,6 @@
 # Abhishek Bhagat
 
-**Senior Software Developer | ML Engineer | MERN Stack**
+**Software Developer | ML Engineer | MERN Stack**
 
 ---
 
@@ -42,11 +42,12 @@ Git • GitHub • Docker • VS Code
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishekbhagat&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-bhagat-codes&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhagat&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-bhagat-codes&layout=compact)
 
 ---
+
 
 ## Connect
 
