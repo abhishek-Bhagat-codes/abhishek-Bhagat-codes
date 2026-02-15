@@ -1,4 +1,4 @@
-<div align="start">
+<!-- <div align="start">
   <h1>Hi, I'm Abhishek</h1>
   <h3>A passionate Full-Stack Developer and AI Enthusiast</h3>
 </div>
@@ -45,4 +45,110 @@
 
 <div align="center">
   <h4>“Code, Create, Repeat.”</h4>
-</div>
+</div> -->
+
+
+
+
+
+
+
+# 👋 Hi, I'm Abhishek Bhagat
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Web+Developer;ML+Engineer;MERN+Stack+Enthusiast;Building+Real+Life+AI+Solutions;Always+Learning+New+Things+🚀" />
+</p>
+
+### 💻 Web Developer + ML Engineer  
+### 🚀 Passionate about ML model training & building real-life solutions
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎯 Currently focused on: **ML + React Native + MERN Stack**
+- 🌱 Learning: **Machine Learning, DSA**
+- 💡 Interested in: **AI, Web Development, App Development**
+- 📫 Reach me at: **abhishekbhagat.dev@gmail.com**
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### 🛠️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Project Name**  
+Short one-line description of what it does.
+
+🔹 **Project Name**  
+Short one-line description of what it does.
+
+🔹 **Project Name**  
+Short one-line description of what it does.
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhagat&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhagat&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhagat&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://github.com/abhishekbhagat/abhishekbhagat/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:abhishekbhagat.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Side
+
+- 🧠 I love: **Coding, Problem Solving, Building Real-World Projects**
+- 🎮 Hobbies: **Gaming, Reading, Music**
+- ✨ Motto: *"Build. Learn. Improve. Repeat."*
